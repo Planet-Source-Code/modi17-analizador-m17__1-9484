@@ -1,0 +1,20 @@
+ÿ¯Hola!
+
+	Primero y todo se preguntaran que es este programa. 
+
+	Bueno basicamente es un programa para probar programas. Y eso que significa?, bueno pongamoslo de esta manera:
+
+	Un dia un pibe, pongamosle de nombre Modi17 se encuentra realizando un programa para hacer clones de Chats IRC ( El cual pueden bajar de Planet Source Code, con el nombre de Clon M17,  :)  )
+
+	Y de repente se da cuenta que se conecta muchas veces a internet para probar un programa, (Imaginense lo que vendria en la cuenta de telefono...) Entonces el pobre Modi17 baja un programa de Planet Source Code (JE JE JE :)) para analizar direcciones IP y puertos)
+
+	Entonce se da cuenta que especificando el puerto y la direccion IP podia conectarse a cualquier lugar y ver TODO lo que sucedia (como si fuera un cliente universal) y luego se pregunta si podria este programa tan, pero tan bueno actuar como server, Y que les parece??? ASI FUE!, este programa tan ingenioso podia actuar como server, y no solo eso, sino que podia emular de alguna manera un server de IRC con lo cual el pobre Modi17 no tuvo que pagar una cuenta de telefono que no abarcara mas de $1.000 
+"OJALA HUBIESE CONSEGUIDO ESTE PROGRAMA ANTES!!!!!!!", decia Modi17.
+
+	Bueno, espero que este ejemplo les haya servido, pero aclaremos un punto. Cuando ustedes ponen para que actue como server, solo tiene que especificar el puerto, (cualquiera) , pero dentro de su programa (si lo utilizan para eso) deben poner como la direccion IP a la que deben conectarse: "127.0.0.1" (Sin comillas). 
+
+	Porque?, no lo se pero esa parece ser la direccion predeterminada de la maquina.
+
+Espero que les sea util!
+
+PD: AH! una cosa mas, voten este programa por favor.
